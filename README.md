@@ -1,1 +1,1 @@
-[# rsschool-cv](https://SDS-megabyte.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://SDS-megabyte.github.io/rsschool-cv/)
